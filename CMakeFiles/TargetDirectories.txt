@@ -1,0 +1,3 @@
+/home/alisa/Documents/Lab05/CMakeFiles/rebuild_cache.dir
+/home/alisa/Documents/Lab05/CMakeFiles/ARPtools.dir
+/home/alisa/Documents/Lab05/CMakeFiles/edit_cache.dir
